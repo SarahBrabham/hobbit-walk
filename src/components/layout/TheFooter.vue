@@ -4,7 +4,7 @@
       <div class="footer border-top mb-5 pt-3">
         <p class="m-0">
           <span class="fw-bold">{{ title }}</span> made by
-          <a href="https://www.nickbreslin.com">Nick Breslin</a>.
+          <a href="https://brabhamsarah.wixsite.com/website">Sarah Brabham</a>.
         </p>
         <p class="m-0">
           Proudly built with
