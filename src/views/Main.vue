@@ -8,9 +8,9 @@
 <script>
 // @ is an alias to /src
 //import comp from "@/components/comp.vue";
-import Image from "@/components/layout/Image.vue";
-import TheCalc from "@/components/layout/TheCalc.vue";
-import WalkLog from "@/components/layout/WalkLog.vue";
+import Image from "@/components/AdventureImage.vue";
+import TheCalc from "@/components/WalkCalc.vue";
+import WalkLog from "@/components/WalkLog.vue";
 
 export default {
   name: "Main",
